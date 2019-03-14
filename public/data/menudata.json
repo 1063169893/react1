@@ -1,0 +1,93 @@
+
+[
+        {
+            "tel":"找工作",
+            "id":"156546515",
+            "lis":[
+                {
+                    "text":"校园招聘",
+                    "imgurl":"https://assets.dajieimg.com/up/dj-mobile/m-dajie/images/left-nav-icon5.png",
+                    "xy":"20px 3px",
+                    "id":"51651322",
+                    "te":"true",
+                    "onClick":"this.setDispaly",
+                    "dispaly":"dispalykey",
+                    "sco":[{
+                        "te":"应届生职位",
+                        "id":"21542511255d"
+                    },{
+                        "te":"校招项目",
+                        "id":"asd12"
+                    },{
+                        "te":"宣讲会",
+                        "id":"sda2w"
+                    },{
+                        "te":"实习职位",
+                        "id":"sd2w2a0"
+                    }]
+                },{
+                    "text":"全职工作",
+                    "imgurl":"https://assets.dajieimg.com/up/dj-mobile/m-dajie/images/left-nav-icon5.png",
+                    "xy":"20px -38px",
+                    "id":"2s2a6dw-3"
+                },{
+                    "text":"兼职工作",
+                    "imgurl":"https://assets.dajieimg.com/up/dj-mobile/m-dajie/images/left-nav-icon5.png",
+                    "xy":"20px -296px",
+                    "id":"asdw6asd2"
+                },{
+                    "text":"感兴趣的职位",
+                    "imgurl":"https://assets.dajieimg.com/up/dj-mobile/m-dajie/images/left-nav-icon5.png",
+                    "xy":"20px -328px",
+                    "id":"3asd6aeas3d2-3asd"
+                }
+            ]
+        },{
+            "tel":"公司",
+            "id":"asd13aew03s2ad",
+            "lis":[
+                {
+                    "text":"全部公司",
+                    "imgurl":"https://assets.dajieimg.com/up/dj-mobile/m-dajie/images/left-nav-icon5.png",
+                    "xy":"20px -362px",
+                    "id":"asdwe63as2fd3"
+                },{
+                    "text":"我关注的公司",
+                    "imgurl":"https://assets.dajieimg.com/up/dj-mobile/m-dajie/images/left-nav-icon5.png",
+                    "xy":"20px -404px",
+                    "id":"axicvnkasjh"
+                }
+            ]
+        },{
+            "tel":"个人中心",
+            "id":"afszjjvbflk",
+            "lis":[
+                {
+                    "text":"我的邀约",
+                    "imgurl":"https://assets.dajieimg.com/up/dj-mobile/m-dajie/images/left-nav-icon5.png",
+                    "xy":"20px -71px",
+                    "id":"26sad2-f32"
+                },{
+                    "text":"投递反馈",
+                    "imgurl":"https://assets.dajieimg.com/up/dj-mobile/m-dajie/images/left-nav-icon5.png",
+                    "xy":"20px -110px",
+                    "id":"asdfhunkzjs"
+                },{
+                    "text":"我的收藏",
+                    "imgurl":"https://assets.dajieimg.com/up/dj-mobile/m-dajie/images/left-nav-icon5.png",
+                    "xy":"20px -220px",
+                    "id":"asjksvhalj"
+                },{
+                    "text":"我的简历",
+                    "imgurl":"https://assets.dajieimg.com/up/dj-mobile/m-dajie/images/left-nav-icon5.png",
+                    "xy":"20px -259px",
+                    "id":"nsdiajbfkhsjb156af"
+                },{
+                    "text":"求职意愿",
+                    "imgurl":"https://assets.dajieimg.com/up/dj-mobile/m-dajie/images/left-nav-icon5.png",
+                    "xy":"20px -138px",
+                    "id":"s3adf03a21f3213a2d1f3"
+                }
+            ]
+        }
+    ]

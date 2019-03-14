@@ -1,0 +1,223 @@
+{
+    "result": 0,
+    "data": {
+        "herder":"全职职位",
+        "moreId":"more1",
+        "hasMore": true,
+        "list": [
+            {
+                "parttime": false,
+                "img": "https://fs1.dajie.com/corplogo/100x100.png",
+                "intern": false,
+                "corp": "广州万思文化传播有限公司",
+                "keywords": [
+                    "广州",
+                    "不限工作经验",
+                    "接受应届生",
+                    "本科及以上",
+                    "晋升空间大",
+                    "周末双休",
+                    "公司休闲区",
+                    "..."
+                ],
+                "jid": "24796629-4ad1-46fc-aeca-140c3db81e94",
+                "salary": "面议",
+                "title": "Foreign Teacher Assistant",
+                "vip": true,
+                "url": "/24796629-4ad1-46fc-aeca-140c3db81e94.html?fromType=fulltime",
+                "stickTop": 2
+            },
+            {
+                "parttime": false,
+                "img": "https://f1.dajieimg.com/n/corp_square_logo/T1C9VvB7ET1R4cSCrK_b.png",
+                "intern": false,
+                "corp": "广东某大型建筑集团",
+                "keywords": [
+                    "广州",
+                    "不限工作经验",
+                    "接受应届生",
+                    "本科及以上",
+                    "五险一金",
+                    "晋升空间大",
+                    "带薪年假",
+                    "..."
+                ],
+                "jid": "bf73aee5-aa33-4abd-923a-a1e52e2f37bb",
+                "salary": "6K-8K元/月",
+                "title": "建筑板块管理培训生",
+                "vip": true,
+                "url": "/bf73aee5-aa33-4abd-923a-a1e52e2f37bb.html?fromType=fulltime",
+                "stickTop": 2
+            },
+            {
+                "parttime": false,
+                "img": "https://f1.dajieimg.com/n/corp_square_logo/T1N4b_Bjxv1R4cSCrK_b.png",
+                "intern": false,
+                "corp": "青岛莱信实业有限公司",
+                "keywords": [
+                    "青岛",
+                    "不限工作经验",
+                    "大专及以上",
+                    "五险一金",
+                    "晋升空间大",
+                    "弹性工作制"
+                ],
+                "jid": "530e5412-bd8d-477c-b9ae-4fd57af99c2b",
+                "salary": "6K-10K元/月",
+                "title": "大数据后端处理实习生",
+                "vip": true,
+                "url": "/530e5412-bd8d-477c-b9ae-4fd57af99c2b.html?fromType=fulltime",
+                "stickTop": 2
+            },
+            {
+                "parttime": false,
+                "img": "https://f1.dajieimg.com/n/corp_square_logo/T1C9VvB7ET1R4cSCrK_b.png",
+                "intern": false,
+                "corp": "广东某大型多元化集团",
+                "keywords": [
+                    "云浮",
+                    "不限工作经验",
+                    "接受应届生",
+                    "大专及以上",
+                    "五险一金",
+                    "晋升空间大",
+                    "带薪年假",
+                    "..."
+                ],
+                "jid": "a5912846-eda4-493f-939f-af7a7f4c0ef1",
+                "salary": "4K-6K元/月",
+                "title": "酒店板块管理培训生",
+                "vip": true,
+                "url": "/a5912846-eda4-493f-939f-af7a7f4c0ef1.html?fromType=fulltime",
+                "stickTop": 2
+            },
+            {
+                "parttime": false,
+                "img": "https://f1.dajieimg.com/n/corp_square_logo/T1N4b_Bjxv1R4cSCrK_b.png",
+                "intern": false,
+                "corp": "青岛莱信实业有限公司",
+                "keywords": [
+                    "青岛",
+                    "不限工作经验",
+                    "接受应届生",
+                    "大专及以上",
+                    "晋升空间大",
+                    "周末双休",
+                    "提供住宿",
+                    "..."
+                ],
+                "jid": "ce61deb4-cfb0-4a5c-baf0-da41c185c34f",
+                "salary": "5K-10K元/月",
+                "title": "大数据实训生不限专业",
+                "vip": true,
+                "url": "/ce61deb4-cfb0-4a5c-baf0-da41c185c34f.html?fromType=fulltime",
+                "stickTop": 2
+            },
+            {
+                "parttime": false,
+                "img": "https://f1.dajieimg.com/n/file/T1Z2W_B_Y_1R4cSCrK_c.png",
+                "intern": false,
+                "corp": "汇丰环球客户服务（广东）有限公司",
+                "keywords": [
+                    "佛山",
+                    "不限工作经验",
+                    "不限学历",
+                    "五险一金",
+                    "晋升空间大",
+                    "带薪年假",
+                    "..."
+                ],
+                "jid": "a1412d4f-da40-4677-9cdd-bd7a3b139fcb",
+                "salary": "4K-6K元/月",
+                "title": "3月9日汇丰环球公开招聘日",
+                "vip": true,
+                "url": "/a1412d4f-da40-4677-9cdd-bd7a3b139fcb.html?fromType=fulltime",
+                "stickTop": 2
+            },
+            {
+                "parttime": false,
+                "img": "https://fs1.dajie.com/corplogo/100x100.png",
+                "intern": false,
+                "corp": "北京天亿弘方投资管理有限公司",
+                "keywords": [
+                    "北京",
+                    "不限工作经验",
+                    "本科及以上",
+                    "五险一金",
+                    "晋升空间大",
+                    "带薪年假",
+                    "..."
+                ],
+                "jid": "f2a3d62b-1a42-468e-b450-ae5aeacc1f2a",
+                "salary": "6K-15K元/月",
+                "title": "管培生应届毕业生（电气、土建专业）",
+                "vip": true,
+                "url": "/f2a3d62b-1a42-468e-b450-ae5aeacc1f2a.html?fromType=fulltime",
+                "stickTop": 2
+            },
+            {
+                "parttime": false,
+                "img": "https://f1.dajieimg.com/n/corp_square_logo/T1N4b_Bjxv1R4cSCrK_b.png",
+                "intern": false,
+                "corp": "青岛莱信实业有限公司",
+                "keywords": [
+                    "青岛",
+                    "不限工作经验",
+                    "接受应届生",
+                    "大专及以上",
+                    "五险一金",
+                    "带薪年假",
+                    "优秀团队",
+                    "..."
+                ],
+                "jid": "11f04f25-96f0-480b-bd77-545ba2e3037a",
+                "salary": "6K+元/月",
+                "title": "老师/助教",
+                "vip": true,
+                "url": "/11f04f25-96f0-480b-bd77-545ba2e3037a.html?fromType=fulltime",
+                "stickTop": 2
+            },
+            {
+                "parttime": false,
+                "img": "https://f1.dajieimg.com/n/corp_square_logo/T1ADEvBvWT1RXrhCrK_b.jpg",
+                "intern": false,
+                "corp": "点亮视界（广州）文化传媒有限公司",
+                "keywords": [
+                    "广州",
+                    "2年以上工作经验",
+                    "本科及以上",
+                    "晋升空间大",
+                    "带薪年假",
+                    "五险一金"
+                ],
+                "jid": "ceba29f7-2a56-42db-b0f3-fea717425e40",
+                "salary": "8K-15K元/月",
+                "title": "广告资深策划",
+                "vip": true,
+                "url": "/ceba29f7-2a56-42db-b0f3-fea717425e40.html?fromType=fulltime",
+                "stickTop": 2
+            },
+            {
+                "parttime": false,
+                "img": "https://f1.dajieimg.com/n/corp_square_logo/T1goZ_BsVv1R4cSCrK_b.png",
+                "intern": false,
+                "corp": "大街网",
+                "keywords": [
+                    "上海",
+                    "2年以上工作经验",
+                    "本科及以上",
+                    "五险一金",
+                    "晋升空间大",
+                    "带薪年假",
+                    "..."
+                ],
+                "jid": "5ce375a0-043d-488b-8306-927dd74830e2",
+                "salary": "10K-20K元/月",
+                "title": "高级创意经理",
+                "vip": true,
+                "url": "/5ce375a0-043d-488b-8306-927dd74830e2.html?fromType=fulltime",
+                "stickTop": 2
+            }
+        ]
+    }
+}
